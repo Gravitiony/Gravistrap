@@ -17,7 +17,7 @@
 
 ---
 
-**Gravistrap**, Roblox'u kendi üzerinden başlatan bir Windows bootstrapper'ıdır. Orijinal Bloxstrap mantığını korur, üzerine çoklu istemci, legacy modlar ve oyun içi sunucu overlay'i ekler. Tamamen **client-side** — diğer oyuncular hiçbir şeyi görmez.
+**Gravistrap**, Roblox'u kendi üzerinden başlatan bir Windows bootstrapper'ıdır. Gravi tarafından yapıldı, üzerine çoklu istemci, legacy modlar ve oyun içi sunucu overlay'i ekler. Tamamen **client-side** — diğer oyuncular hiçbir şeyi görmez.
 
 ## ✨ Özellikler
 
@@ -36,10 +36,8 @@
 
 ## 📥 Kurulum
 
-1. **Releases**'ten `Gravistrap_v2.0_TransparentLogo.zip` indir
-2. Zip'i çıkar, `Gravistrap.exe` çift tıkla
-   - `standalone` 72 MB, .NET gerektirmez
-   - `framework-dependent` 150 KB, .NET 8 ister
+1. **Releases**'ten `Gravistrap.exe` indir
+2. Sonra, `Gravistrap.exe` çift tıkla
 3. İlk açılışta `Roblox'u Başlat` kısayolu otomatik oluşur
 
 > Roblox en az bir kez resmi launcher ile açılmış olmalı (`%LocalAppData%\Roblox\Versions`)
