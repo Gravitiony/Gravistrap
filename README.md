@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Bloxstrap esinlenmeli, hafif ve şeffaf Roblox bootstrapper</b><br/>
+  <b>Gravi tarafından yapılmış, hafif ve şeffaf Roblox bootstrapper</b><br/>
   FastFlag • Mod • Çoklu İstemci • Legacy • Server Overlay
 </p>
 
